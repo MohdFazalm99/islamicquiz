@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 import ReactDOM from "react-dom"
-import "/home/fazal/Documents/islamicquiz/src/assets/style.css";
+import "./assets/style.css";
 import quizService from './quizService';
 import QuestionBox from "./components/QuestionBox";
 import Result from "./components/Result"
